@@ -1,0 +1,15 @@
+C:\Users\Юля\Desktop\dz1\primer\bin\Debug\net6.0\primer.exe
+C:\Users\Юля\Desktop\dz1\primer\bin\Debug\net6.0\primer.deps.json
+C:\Users\Юля\Desktop\dz1\primer\bin\Debug\net6.0\primer.runtimeconfig.json
+C:\Users\Юля\Desktop\dz1\primer\bin\Debug\net6.0\primer.dll
+C:\Users\Юля\Desktop\dz1\primer\bin\Debug\net6.0\primer.pdb
+C:\Users\Юля\Desktop\dz1\primer\obj\Debug\net6.0\primer.csproj.AssemblyReference.cache
+C:\Users\Юля\Desktop\dz1\primer\obj\Debug\net6.0\primer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юля\Desktop\dz1\primer\obj\Debug\net6.0\primer.AssemblyInfoInputs.cache
+C:\Users\Юля\Desktop\dz1\primer\obj\Debug\net6.0\primer.AssemblyInfo.cs
+C:\Users\Юля\Desktop\dz1\primer\obj\Debug\net6.0\primer.csproj.CoreCompileInputs.cache
+C:\Users\Юля\Desktop\dz1\primer\obj\Debug\net6.0\primer.dll
+C:\Users\Юля\Desktop\dz1\primer\obj\Debug\net6.0\refint\primer.dll
+C:\Users\Юля\Desktop\dz1\primer\obj\Debug\net6.0\primer.pdb
+C:\Users\Юля\Desktop\dz1\primer\obj\Debug\net6.0\primer.genruntimeconfig.cache
+C:\Users\Юля\Desktop\dz1\primer\obj\Debug\net6.0\ref\primer.dll
